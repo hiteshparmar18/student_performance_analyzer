@@ -61,3 +61,24 @@ pip install -r requirements.txt
 
 Run the app:
 python ui/app.py
+```
+## 🧪 Sample CSV Format
+```
+Name,Math,Science,English,History
+Hitesh,88,70,76,91
+Rahul,69,79,82,66
+Devanshu,50,33,41,20
+Rajat,10,20,30,40
+```
+
+---
+
+## 🙌 Contribution
+
+Feel free to fork this repo, suggest features, or raise issues.
+
+---
+
+## 📧 Contact
+
+Made by Hitesh Parmar · Reach out on [LinkedIn](https://www.linkedin.com/in/hiteshparmar18/)
