@@ -53,7 +53,7 @@ student_performance_analyzer/
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/student-performance-analyzer.git
+git clone https://github.com/hiteshparmar18/student-performance-analyzer.git
 cd student-performance-analyzer
 
 Install dependencies:
